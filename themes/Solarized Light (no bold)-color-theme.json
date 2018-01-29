@@ -62,6 +62,13 @@
 			}
 		},
 		{
+			"name": "Storage Type",
+			"scope": "storage.type",
+			"settings": {
+			  "foreground": "#859900"
+			}
+		 },
+		{
 			"name": "Class name",
 			"scope": [
 				"entity.name.class",
